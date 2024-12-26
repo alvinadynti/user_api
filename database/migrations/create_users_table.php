@@ -1,4 +1,4 @@
-// database/migrations/xxxx_xx_xx_xxxxxx_create_users_table.php
+// database/migrations/create_users_table.php
 public function up()
 {
     Schema::create('users', function (Blueprint $table) {
